@@ -1,0 +1,22 @@
+[
+  {"spanish": "Perro", "english": "Dog"},
+  {"spanish": "Gato", "english": "Cat"},
+  {"spanish": "Pájaro", "english": "Bird"},
+  {"spanish": "Pez", "english": "Fish"},
+  {"spanish": "Caballo", "english": "Horse"},
+  {"spanish": "Vaca", "english": "Cow"},
+  {"spanish": "Oveja", "english": "Sheep"},
+  {"spanish": "Cerdo", "english": "Pig"},
+  {"spanish": "Conejo", "english": "Rabbit"},
+  {"spanish": "Ratón", "english": "Mouse"},
+  {"spanish": "Tigre", "english": "Tiger"},
+  {"spanish": "León", "english": "Lion"},
+  {"spanish": "Elefante", "english": "Elephant"},
+  {"spanish": "Jirafa", "english": "Giraffe"},
+  {"spanish": "Mono", "english": "Monkey"},
+  {"spanish": "Zorro", "english": "Fox"},
+  {"spanish": "Oso", "english": "Bear"},
+  {"spanish": "Canguro", "english": "Kangaroo"},
+  {"spanish": "Águila", "english": "Eagle"},
+  {"spanish": "Tortuga", "english": "Turtle"}
+]

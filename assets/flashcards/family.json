@@ -1,0 +1,22 @@
+[
+  {"spanish": "Madre", "english": "Mother"},
+  {"spanish": "Padre", "english": "Father"},
+  {"spanish": "Hermano", "english": "Brother"},
+  {"spanish": "Hermana", "english": "Sister"},
+  {"spanish": "Abuela", "english": "Grandmother"},
+  {"spanish": "Abuelo", "english": "Grandfather"},
+  {"spanish": "Tío", "english": "Uncle"},
+  {"spanish": "Tía", "english": "Aunt"},
+  {"spanish": "Primo", "english": "Cousin (male)"},
+  {"spanish": "Prima", "english": "Cousin (female)"},
+  {"spanish": "Hijo", "english": "Son"},
+  {"spanish": "Hija", "english": "Daughter"},
+  {"spanish": "Nieto", "english": "Grandson"},
+  {"spanish": "Nieta", "english": "Granddaughter"},
+  {"spanish": "Esposo", "english": "Husband"},
+  {"spanish": "Esposa", "english": "Wife"},
+  {"spanish": "Sobrino", "english": "Nephew"},
+  {"spanish": "Sobrina", "english": "Niece"},
+  {"spanish": "Padrastro", "english": "Stepfather"},
+  {"spanish": "Madrastra", "english": "Stepmother"}
+]

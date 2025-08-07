@@ -1,0 +1,22 @@
+[
+  {"spanish": "Hola", "english": "Hello"},
+  {"spanish": "¿Cómo estás?", "english": "How are you?"},
+  {"spanish": "Estoy bien", "english": "I'm fine"},
+  {"spanish": "Gracias", "english": "Thank you"},
+  {"spanish": "De nada", "english": "You're welcome"},
+  {"spanish": "Por favor", "english": "Please"},
+  {"spanish": "Lo siento", "english": "Sorry"},
+  {"spanish": "Sí", "english": "Yes"},
+  {"spanish": "No", "english": "No"},
+  {"spanish": "¿Dónde está el baño?", "english": "Where is the bathroom?"},
+  {"spanish": "Me llamo...", "english": "My name is..."},
+  {"spanish": "Mucho gusto", "english": "Nice to meet you"},
+  {"spanish": "¿Hablas inglés?", "english": "Do you speak English?"},
+  {"spanish": "No entiendo", "english": "I don't understand"},
+  {"spanish": "¿Cuánto cuesta?", "english": "How much does it cost?"},
+  {"spanish": "Ayuda", "english": "Help"},
+  {"spanish": "Hasta luego", "english": "See you later"},
+  {"spanish": "Buenas noches", "english": "Good night"},
+  {"spanish": "Buenos días", "english": "Good morning"},
+  {"spanish": "Buenas tardes", "english": "Good afternoon"}
+]
