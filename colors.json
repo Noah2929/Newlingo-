@@ -1,0 +1,22 @@
+[
+  {"spanish": "Rojo", "english": "Red"},
+  {"spanish": "Azul", "english": "Blue"},
+  {"spanish": "Verde", "english": "Green"},
+  {"spanish": "Amarillo", "english": "Yellow"},
+  {"spanish": "Negro", "english": "Black"},
+  {"spanish": "Blanco", "english": "White"},
+  {"spanish": "Gris", "english": "Gray"},
+  {"spanish": "Naranja", "english": "Orange"},
+  {"spanish": "Rosa", "english": "Pink"},
+  {"spanish": "Marrón", "english": "Brown"},
+  {"spanish": "Violeta", "english": "Violet"},
+  {"spanish": "Turquesa", "english": "Turquoise"},
+  {"spanish": "Dorado", "english": "Gold"},
+  {"spanish": "Plateado", "english": "Silver"},
+  {"spanish": "Celeste", "english": "Sky blue"},
+  {"spanish": "Beige", "english": "Beige"},
+  {"spanish": "Lila", "english": "Lilac"},
+  {"spanish": "Coral", "english": "Coral"},
+  {"spanish": "Mostaza", "english": "Mustard"},
+  {"spanish": "Verde oliva", "english": "Olive green"}
+]
